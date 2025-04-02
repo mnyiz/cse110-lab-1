@@ -11,6 +11,6 @@ because I forgot the flag required two '-' characters :(
 
 [This](https://www.youtube.com/watch?v=jKh-DP89FPY&list=PLdhF_0MdyhADpRkQQmy9gWAIfdgfgWrWG&index=2) is a video of an animation I really like.
 
-Link to the sample section: [Link Text](#my-hobbies)
+Link to the hobby section: [My hobbies](#my-hobbies)
 
 
