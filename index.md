@@ -1,6 +1,7 @@
 # Hello! My name is
 ## **Minnie Zhang**
 > I am a junior majoring in Computer Science :)
+
 The git command that took me the most time in this lab:
 ```
 git push --set-upstream origin branch
