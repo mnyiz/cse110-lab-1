@@ -1,5 +1,5 @@
-# Hello! My name is **Minnie Zhang**
-> I am a junior majoring in Computer Science :)
+# Hello! My name is Minnie Zhang
+> I am a *junior* majoring in *Computer Science* :)
 
 The git command that took me the most time in this lab:
 ```
