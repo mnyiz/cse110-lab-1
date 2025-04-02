@@ -7,6 +7,8 @@ git push --set-upstream origin branch
 ```
 because I forgot the flag required two '-' characters :(
 
+This is the [README file](README.md)
+
 ## My hobbies
 
 [This](https://www.youtube.com/watch?v=jKh-DP89FPY&list=PLdhF_0MdyhADpRkQQmy9gWAIfdgfgWrWG&index=2) is a video of an animation I really like.
