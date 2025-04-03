@@ -25,8 +25,8 @@ Other activities I enjoy include:
 
 My to-watch anime list:
 - [x] Soul Eater
-- [] Solo Leveling
-- [] The Apothecary Diaries
+- [ ] Solo Leveling
+- [ ] The Apothecary Diaries
 
 Link to the hobby section: [My hobbies](#my-hobbies)
 
