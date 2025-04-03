@@ -23,6 +23,11 @@ Other activities I enjoy include:
 2. Watching musicals/plays
 3. Reading manga
 
+My to-watch anime list:
+- [x] Soul Eater
+- [] Solo Leveling
+- [] The Apothecary Diaries
+
 Link to the hobby section: [My hobbies](#my-hobbies)
 
 
