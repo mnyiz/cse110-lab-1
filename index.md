@@ -15,7 +15,7 @@ This is the [README file](README.md)
 
 Some game playthroughs I've watched lately and highly recommend:
 - American Arcadia
-  ![American Arcadia](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.americanarcadiagame.com%2F&psig=AOvVaw3ftbQDQR3kf0LZRRxgnEeY&ust=1743799761024000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCt27zevIwDFQAAAAAdAAAAABAE)
+  ![American Arcadia](https://images.squarespace-cdn.com/content/v1/61b2d89c649abb09723b81b1/e8acea28-1b76-4df9-a80f-3b8413c05f31/AA-KEY-ART.png)
 - 12 Minutes
 - Cyber Manhunt
 
