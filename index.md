@@ -19,6 +19,7 @@ Some game playthroughs I've watched lately and highly recommend:
 - 12 Minutes
   ![12 Minutes](https://upload.wikimedia.org/wikipedia/en/d/d0/Twelve_minutes_cover.png)
 - Cyber Manhunt
+  ![Cyber Manhunt](https://www.superjumpmagazine.com/content/images/2024/05/CMH-Feat-Image.png)
 
 Other activities I enjoy include:
 1. Drawing
