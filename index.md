@@ -17,6 +17,7 @@ Some game playthroughs I've watched lately and highly recommend:
 - American Arcadia
   ![American Arcadia](https://images.squarespace-cdn.com/content/v1/61b2d89c649abb09723b81b1/e8acea28-1b76-4df9-a80f-3b8413c05f31/AA-KEY-ART.png)
 - 12 Minutes
+  ![12 Minutes](https://upload.wikimedia.org/wikipedia/en/d/d0/Twelve_minutes_cover.png)
 - Cyber Manhunt
 
 Other activities I enjoy include:
